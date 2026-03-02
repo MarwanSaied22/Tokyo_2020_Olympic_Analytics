@@ -33,7 +33,7 @@ This project analyzes the Tokyo 2020 Summer Olympics dataset. The goal was to cl
 
 ## 📂 Repository Structure
 * `Tokyo Olympics.pbix`: The core Power BI project file.
-* `/Resources`: Contains the Olympic logos and static assets used in the report.
+* `Resources`: Contains the Olympic logos and static assets used in the report.
 * `README.md`: Project documentation.
 
 ---
